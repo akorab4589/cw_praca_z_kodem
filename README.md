@@ -9,3 +9,7 @@ Kroki potrzebne do uruchomienia aplikacji
 3. Zainstaluj zależności z pliku `requirements.txt` za pomocą komendy `pip install -r requirements.txt`.
 
 4. Po instalacji, uruchom aplikację komendą `python app.py`.
+
+
+README jest ważne w projekcie, ponieważ służy jako źródło informacji dla osób, które chcą używać lub współpracować nad projektem. Jest swojego rodzaju przewodnikiem po projekcie. Pełni rolę centralnego punktu informacyjnego projektu.
+Pozwala ułatwić komunikację między współpracującymi nad projektem użytkownikami.
